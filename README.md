@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **krantikumar6265422@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=661a9b45feb0101174da692d](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=661a9b45feb0101174da692d)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OXnesq-op_fQfnwqoGtz3BK8z5OPDn2T/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
