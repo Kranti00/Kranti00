@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kranti00&label=Profile%20views&color=0e75b6&style=flat" alt="kranti00" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT.Js, NODE.js, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, BOOTSTRAP**
 
 - 📫 How to reach me **krantikumar6265422@gmail.com**
 
